@@ -54,11 +54,11 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/wassim-el-khou-98865618b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yassir%20Imzi-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/wassim-el-khou-98865618b/"><img alt="LinkedIn" src="&logo=linkedin"></a>
 
-<a href="https:https://www.instagram.com/wvssssim2.0/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Yass_sir__-black?style=flat-square&logo=instagram"></a>
+<a href="https:https://www.instagram.com/wvssssim2.0/"><img alt="Instagram" src="&logo=instagram"></a>
 
-<a href="mailto:elkhou.wassim@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-imziyasser00@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:elkhou.wassim@gmail.com"><img alt="Email" src="&logo=gmail"></a>
 
 </p>
 
